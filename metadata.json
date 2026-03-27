@@ -1,0 +1,7 @@
+{
+  "name": "VeriPure: Web3 Trust Ledger",
+  "description": "A Zero-Knowledge Proof system for water quality. Maintenance staff log work on a private blockchain, and students scan QR codes to see an immutable Trust Score.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
